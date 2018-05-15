@@ -1,5 +1,6 @@
 # Detachment-of-Contours-of-magnetic-Anomalies
 Эта программа создана для выделения контуров магнитных аномалий на магнитометрических снимках.
+
 Запуск: go(file_path, contur_neighbourhood, contur_constant, initial_level,
                       dbscan_neighbourhood, dbscan_coreneighbours, glue_eps, sift_level,
                       smooth_radius, smooth_step, method)
